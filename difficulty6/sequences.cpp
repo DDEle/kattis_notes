@@ -1,3 +1,4 @@
+//https://open.kattis.com/problems/sequences
 //0-1 sequence, difficulty 6.7
 
 //Note: using long long int is critical since square(1000000007) can easily exceed limitation of int
